@@ -1,8 +1,9 @@
 # Particle-System
 
-###How To Run
+**How To Run**
 
-####You will need processing for python to run this. Just open the `.pyde` file, set the height and width to your screen's height and width and run.
+You will need processing for python to run this. Just open the `.pyde` file, set the height and width to your screen's height and width and run.
 
-###Demo
+**Demo**
+
 [Video](https://www.youtube.com/watch?v=-vUuerg9qiw)
